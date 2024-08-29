@@ -14,7 +14,7 @@ blah
 blah
 
 # Python
-print("Hello World")
+`print("Hello World")`
 
 # Introduction to GitHub
 
