@@ -7,6 +7,15 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
+# About Me
+blah
+
+# Goals for this Course
+blah
+
+# Python
+print("Hello World")
+
 # Introduction to GitHub
 
 _Get started using GitHub in less than an hour._
